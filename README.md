@@ -3,12 +3,11 @@
 Este guia oferece informações sobre a compatibilidade do Java com diferentes versões do Spigot.
 
 ### Resumo
-
 | Versão do Spigot | Versão mínima do Java | Razão |
 |---|---|---|
-| 1.8 - 1.16.5 | Java 8 | Suporte a APIs legadas |
-| 1.17 - 1.18.2 | Java 16 | Alterações na API e no bytecode |
-| 1.19+ | Java 17 | Alterações na API e no bytecode |
+| 1.8 - 1.16.5 | [![Java 8](https://img.shields.io/badge/Java-8-red)](https://www.java.com/) | Suporte a APIs legadas |
+| 1.17 - 1.18.2 | [![Java 16](https://img.shields.io/badge/Java-16-orange)](https://www.java.com/) | Alterações na API e no bytecode |
+| 1.19+ | [![Java 17](https://img.shields.io/badge/Java-17-green)](https://www.java.com/) | Alterações na API e no bytecode |
 
 ### Detalhes
 
